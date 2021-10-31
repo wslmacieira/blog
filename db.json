@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Wslmacieira",
+      "mensagem": "Seja bem vindo"
+    },
+    {
+      "nome": "John Doe",
+      "mensagem": "Este projeto é legal update",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "mensagem": "Minha primeira mensagem"
+    },
+    {
+      "nome": "John Doe",
+      "mensagem": "Este projeto é legal update",
+      "id": 4
+    }
+  ]
+}
